@@ -1,0 +1,2 @@
+# Online-Medical-Consultant
+Online Medical Consultant features as a virtual AI medical assistant. it is deployed as a web utility using azure web apps leveraging the serverless computing technology it gives. It makes use of azure health bot to swiftly and systematically process patient signs and help them identify the proper diagnosis. it could additionally be used by medical doctors incase they want a second opinion as every one makes mistakes If i have enough time i will try to include models to improve the range of application of this project.
